@@ -1,0 +1,8 @@
+{
+  "url": "https://github.com/tree-sitter/tree-sitter-python",
+  "semver": true,
+  "min_version": "v0.25.0",
+  "max_version": null,
+  "location": null,
+  "lang": "python"
+}
