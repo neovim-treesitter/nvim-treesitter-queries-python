@@ -1,7 +1,7 @@
 {
+  "lang": "python",
+  "url": "https://github.com/tree-sitter/tree-sitter-python",
   "semver": true,
   "parser_version": "v0.25.0",
-  "location": null,
-  "lang": "python",
-  "url": "https://github.com/tree-sitter/tree-sitter-python"
+  "location": null
 }
